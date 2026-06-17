@@ -1,6 +1,6 @@
 # Tents and Trees
 
-JavaFX implementation of the classic Tents and Trees logic puzzle.
+JavaFX implementation of the classic Tents and Trees logic puzzle. Made by Stein de Bruin, Erasmus School of Economics.
 
 ## Overview
 
